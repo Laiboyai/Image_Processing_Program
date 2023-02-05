@@ -1,0 +1,10 @@
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Debug\image_process_assignmant(1).exe.config
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Debug\image_process_assignmant(1).exe
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Debug\image_process_assignmant(1).pdb
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant(1).csprojAssemblyReference.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant_1_.Form1.resources
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant_1_.Properties.Resources.resources
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant(1).csproj.GenerateResource.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant(1).csproj.CoreCompileInputs.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant(1).exe
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Debug\image_process_assignmant(1).pdb

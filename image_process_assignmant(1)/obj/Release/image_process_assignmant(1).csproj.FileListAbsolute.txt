@@ -1,0 +1,40 @@
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe.config
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).pdb
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csprojAssemblyReference.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Form1.resources
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Properties.Resources.resources
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.GenerateResource.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.CoreCompileInputs.cache
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).exe
+Z:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).pdb
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe.config
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).pdb
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csprojAssemblyReference.cache
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Form1.resources
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Properties.Resources.resources
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.GenerateResource.cache
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.CoreCompileInputs.cache
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).exe
+A:\533B\108學年\柏宇\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).pdb
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe.config
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).pdb
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csprojAssemblyReference.cache
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Form1.resources
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Properties.Resources.resources
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.GenerateResource.cache
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.CoreCompileInputs.cache
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).exe
+E:\joy\程式\image process\image_process_homework(1)\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).pdb
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe.config
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).exe
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\bin\Release\image_process_assignmant(1).pdb
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csprojAssemblyReference.cache
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Form1.resources
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant_1_.Properties.Resources.resources
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.GenerateResource.cache
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).csproj.CoreCompileInputs.cache
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).exe
+D:\資料\履歷\104\Image-Processing\image_process_assignmant(1)\image_process_assignmant(1)\obj\Release\image_process_assignmant(1).pdb
